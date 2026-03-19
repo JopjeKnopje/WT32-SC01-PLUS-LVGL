@@ -9,6 +9,10 @@ You could also say that because Arduino is def (maybe it is, I didn't investigat
 
 Long story short, no fucking clue whats going on here. But I'd like to find out :)
 
+## Resources
+- https://github.com/espressif/esp-bsp/blob/master/components/esp_lvgl_port/docs/performance.md
+
+
 # Credits
 - bsp-idf: [sukesh-ak/BSP-IDF5-ESP_LCD-LVGL9](https://github.com/sukesh-ak/BSP-IDF5-ESP_LCD-LVGL9)
 - platformio: [SubCoderHUN/WT32-SC01-PLUS](https://github.com/SubCoderHUN/WT32-SC01-PLUS)
